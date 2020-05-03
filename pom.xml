@@ -95,8 +95,8 @@
 					<update>true</update>
 					<path>/${project.artifactId}-${project.version}</path>
 					<server>TomcatServer</server>
-					<!-- <username>admin</username>
-					<password>admin_password</password> -->
+					<username>admin</username>
+					<password>admin_password</password> 
 				</configuration>
 			</plugin>
 		</plugins>
